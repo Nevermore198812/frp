@@ -1,0 +1,11 @@
+[Unit]
+Description=frps service
+After=network.target syslog.target
+Wants=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/pi/frpdir/frpc -c /home/pi/frpdir/frpc.ini
+
+[Install]
+WantedBy=multi-user.target

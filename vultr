@@ -1,0 +1,5 @@
+[common]
+server_addr = 108.160.129.197
+server_port = 5443
+token = 0HDvbBYERRlwAsyg
+login_fail_exit = false

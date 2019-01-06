@@ -1,0 +1,14 @@
+network={
+  ssid="HUAWEI-B311-6BE2"
+  psd="90102153"
+}
+
+network={
+  ssid="HUAWEI-B311-6A61"
+  psd="66012300"
+}
+
+network={
+  ssid="HUAWEI-B311-6C1A"
+  psd="82759113"
+}
